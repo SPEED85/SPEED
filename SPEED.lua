@@ -1,4 +1,4 @@
-/http = require("socket.http")
+http = require("socket.http")
 https = require("ssl.https")
 JSON = dofile("./lib/dkjson.lua")
 json = dofile("./lib/JSON.lua")
